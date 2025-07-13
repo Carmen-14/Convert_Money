@@ -61,10 +61,15 @@ Ingrese el monto a convertir: 10
 ## 📁 Estructura del Proyecto
 
 ConvertidorMoneda/
+
 ├── src/
+
 │ └── Main.java
+
 ├── lib/
+
 │ └── json-20210307.jar
+
 ├── README.md
 
 
