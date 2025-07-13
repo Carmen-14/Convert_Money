@@ -26,6 +26,29 @@ Si no usas Maven, descarga manualmente el `.jar` desde:
 
 Agrega el `.jar` como biblioteca en tu IDE (ej: IntelliJ IDEA).
 
+✅ Cómo descargar el .jar desde Maven Repository
+
+🔹 Paso a paso:
+Ve al sitio del JSON oficial:
+👉 https://mvnrepository.com/artifact/org.json/json
+
+Haz clic en una versión estable. Por ejemplo:
+
+20210307 → https://mvnrepository.com/artifact/org.json/json/20210307
+
+Verás una sección titulada Files (casi al final de la página).
+
+Haz clic derecho sobre el enlace que dice jar (xx KB) y selecciona:
+
+"Guardar enlace como..." (o “Descargar enlace como...” dependiendo de tu navegador)
+
+Por ejemplo:
+
+https://repo1.maven.org/maven2/org/json/json/20210307/json-20210307.jar
+Guarda ese archivo .jar en una carpeta de tu proyecto, por ejemplo en lib/.
+
+
+
 ## ⚙️ Uso
 
 1. Ejecuta el programa en tu entorno Java.
